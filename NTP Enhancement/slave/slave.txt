@@ -1,0 +1,2 @@
+slaveIP		Interface 		IP
+10.1.2.3	eth0	10.1.2.2
